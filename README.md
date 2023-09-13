@@ -15,39 +15,33 @@ To begin participating in the Spaceship Titanic Kaggle Competition, follow these
 
 1. ### **Data Processing**:
    #### Data Inspection
-   - Summarize the initial exploration of the dataset.
-   - Mention any observations about the data's structure, content, or quality.
+   - Summarizing the initial exploration of the dataset.
+   - Mentioned some observations about the data's structure in the notebook.
 
    #### Data Cleaning
-    - Describe how missing data was handled (removal, imputation, interpolation, etc.).
-    - Explain how outliers and data errors were addressed.
+    - Showing how missing data was handled (removal, imputation, interpolation, etc.).
      
     #### Data Transformation
-    - Document any data type conversions and reasons behind them.
-    - Mention if scaling, normalization, or encoding techniques were applied.
-    - Describe any feature engineering done to create new features.
+    - Used standard scalar (Hot One Encoding was applied).
      
     #### Data Splitting
 
-    - Explain how the dataset was divided into training, validation, and test sets.
-    - Provide the ratio or size of each split.
+    - the dataset was divided into training, validation, and test sets.
   
 
 2. ### **Analysis and Modeling**:
    #### Model Training
 
-    - Document the process of training the machine learning models.
-    - Include hyperparameter tuning, cross-validation, and evaluation metrics used.
+    - Used Random Forest Classifier and Gradient Boosting Classifier in the process of training.
+
     #### Model Evaluation
 
-    - Describe the evaluation metrics used to assess model performance (e.g., accuracy, precision, recall, F1-score, RMSE, etc.).
-    - Present the results of model evaluations, including any visualizations or tables.
+    - Used the evaluation metrics (accuracy, precision, recall) to assess model performance.
+    - Presented the results of model evaluations, including some visualizations and tables.
 
 
 3. ### **Review**:
    #### Results and Conclusions
 
-    - Summarize the key findings from the analysis and modeling.
-    - Discuss the implications of the results and how they address the project objectives.
-
+    - The Spaceship Titanic Kaggle Competition was a rewarding experience that allowed me to apply my data science skills, tackle a challenging problem, and learn from the       global data science community. While the competition has concluded, the knowledge and insights gained will continue to benefit our future projects. I look forward to          applying what I've learned to new data challenges and further advancing my data science journey.
 
